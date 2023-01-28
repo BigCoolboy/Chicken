@@ -1,0 +1,6 @@
+keys = {
+[CREATOR_KEYS_LOL] = true, -- Random key!
+[KEY0] = true,
+[KEY1] = true
+}
+return keys
