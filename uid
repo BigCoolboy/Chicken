@@ -8,6 +8,6 @@ userids = {
 [2884763112] = true, -- noah tester
 ----------------------------- Below is buyers
 
-[0] = true, -- 63436760 UNPAID
+[63436760] = true, 
 }
 return userids
