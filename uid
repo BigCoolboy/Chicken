@@ -17,6 +17,7 @@ userids = {
 [2236215587] = true, 
 [175296637] = true, -- zoro
 [2508769728] = true,
+[3711986600] = true,
 
 }
 return userids
