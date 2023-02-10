@@ -24,6 +24,5 @@ userids = {
 
 -----------------
 [3216714430] = true, -- norm
-
 }
 return userids
