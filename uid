@@ -21,5 +21,8 @@ userids = {
 [3065624207] = true, 
 [2644309144] = true,
 
+------ ID V2
+[3216714430] = true, -- NORM
+
 }
 return userids
